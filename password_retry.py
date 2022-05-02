@@ -1,6 +1,6 @@
 password = 'a123456'
-i =3
-while True :
+i = 3
+while i > 0 :
     pwd = input('請輸入你的密碼')
     if pwd == password:
         print('登入成功!')
